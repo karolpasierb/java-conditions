@@ -1,0 +1,16 @@
+body {
+	background-color: orange;
+}
+
+.center {
+	text-align: center;
+	background-color: #FFF;
+	color: black;
+	margin: 0 auto;
+	max-width: 800px;
+	font-weight: bold;
+}
+
+.center p {
+	font-size: 20px;
+}
